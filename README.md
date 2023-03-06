@@ -1,4 +1,4 @@
-### Hi there 👋
+### iOS 개발자 이성호 입니다.
 
 <!--
 **dangsal/dangsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangsal&show_icons=true&theme=radical)
